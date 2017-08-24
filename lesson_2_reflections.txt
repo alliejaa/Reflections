@@ -10,8 +10,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 	The staging area will let you see which files have been changed and are or are not ready to be committed. By looking at those files, you can confirm which ones you want grouped together in one commit. 
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	
+	If you're testing something out and don't want to make the changes to the master branch, you can create a new one and work on that to see how it goes. That way, others can work on the master and your changes won't interfere with one another's work.
 
 How do the diagrams help you visualize the branch structure?
 
