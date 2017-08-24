@@ -7,10 +7,9 @@ automatically stay up-to-date with your remote repository?
 
     With manual pulls, you can determine when something is actually ready to be in the remote repository and available for public/team use. If pulls were automatic, Git might be providing incomplete information and pushing it to Github. 
 
-Describe the differences between forks, clones, and branches.  When would you
-use one instead of another?
+Describe the differences between forks, clones, and branches.  When would you use one instead of another?
 
-    Fill in your answer here
+    A fork is a way to clone a repository on Github and transfer it to your own Github respository while still maintaining a connection to the original. A clone is a copy, either within your local machine or from Github to your machine. A branch is a copy of a series of commits that you can use to work on new features, etc. and then merge with the master.  
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
