@@ -2,11 +2,13 @@ What happens when you initialize a repository? Why do you need to do it?
 
 	You're essentially creating a place to house a number of interrelated files that you may need to edit together at some point. It seems to make things easier to track. 
 
-How is the staging area different from the working directory and the repository?
-What value do you think it offers?
+How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+	The working directory is your hard drive, and the repository is the folder you've created to store whatever files you want to have in a certain place. The staging area is essentially where you can place files between transferring them from the working directory to the repository, and it seems to just be an extra layer of securityso you can verify that you're adding and committing the correct things. If not, you can fix any errors without cluttering up the commit history. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	The staging area will let you see which files have been changed and are or are not ready to be committed. By looking at those files, you can confirm which ones you want grouped together in one commit. 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
