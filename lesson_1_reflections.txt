@@ -1,0 +1,30 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    I was able to go line-by-line to actually see what had changed. Some of the bigger changes were obvious, but the smaller ones (typos, etc.) were much harder to see.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    If you have all the revisions, you don't really have to guess about or remember which changes were made. You can always go back and refer to previous versions. Great if you break something and have no idea what you did! Also good for working with teams because you don't have to explain all the changes being made--teams can go in and look for themselves. 
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+    Pros: Google saves every little change and doesn't let you add a note, so sometimes you have to go through dozens of revisions just to find the one you want. Being able to manually save lets you choose which activities you want grouped together.
+
+    Cons: You have to remember to actually manually save, and it would probably be fairly easy (especially as a beginner) to move forward with big projects and forget to commit.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+    I think services like Google are primarily for saving separate word processor-type files that aren't necessarily interrelated, while services that are more targeted to coding and development need to have that connection. It would be rare to be writing a book and have each chapter be a separate file, but it's common for websites to have multiple files that potentially all need to updated simultaneously. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log lets you see all of the commits made, as well as the notes the person submitting wrote about the changes they made. Git diff lets you compare two versions and see what specific changes were made between two different commits. 
+
+How might using version control make you more confident to make changes that could break something?
+
+    With version control, you can always access a previous working version of whatever you were editing. So, even if something breaks, you'll be able to figure out exactly what it was and either try to restore a previous version or quickly fix the thing that was mistakenly added/deleted to create an error. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I'd like to use it to help manage our website. 
