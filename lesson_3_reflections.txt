@@ -15,10 +15,9 @@ What is the benefit of having a copy of the last known state of the remote store
 
     By storing the last known state locally, you can make changes to the most up-to-date version of something, even if you're going to be offline. 
 
-How would you collaborate without using Git or GitHub?  What would be easier,
-and what would be harder?
+How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
-    Fill in your answer here
+    There would be a lot of sending documents back and forth and/or needing to edit code directly and breaking things without realizing it and without being able to fix it. 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
